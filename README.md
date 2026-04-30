@@ -181,8 +181,7 @@ Multi-language audit support
 AUTHOR
 Sarem Mahmood:
 Portfolio: https://profbisca29.github.io/
-GitHub: https://github.com/ProfBisca29
-LinkedIn: https://www.linkedin.com/in/sarem-mahmood
+
 
 LICENSE
 
